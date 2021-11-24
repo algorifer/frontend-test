@@ -111,7 +111,7 @@ WithButtons.args = {
 WithButtons.parameters = {
   docs: {
     description: {
-      story: 'Props `buttons` creating Action Buttons for eath row',
+      story: 'Props `buttons` creating Action Buttons for each row',
     },
   },
 }
